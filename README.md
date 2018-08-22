@@ -20,7 +20,7 @@ Your html page :
     <link href="autocomplete.min.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <input type="hidden" name="__YOUR_FIELD_NAME__" class="-js-autocomplete" data-source="__YOUR_ENDPOINT_URL__" data-name="Acid Dough" id="__YOUR_FIELD_ID__">
+    <input type="hidden" name="__YOUR_FIELD_NAME__" class="-js-autocomplete" data-source="__YOUR_ENDPOINT_URL__" data-name="" id="__YOUR_FIELD_ID__">
   
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
